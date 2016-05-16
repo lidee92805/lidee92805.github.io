@@ -11,7 +11,7 @@ locale:             en_US
 url:                https://github.com/lidee92805
 
 # Jekyll
-permalink:          blog/:year/:month/:day/:title.html
+permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
