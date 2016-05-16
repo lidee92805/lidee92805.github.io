@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Yo,Yo
+bio:                'The quality, not the longevity, of one's life is what is important.'
+description:        "SunBye's house"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github:             username
+github:             https://github.com/lidee92805
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
