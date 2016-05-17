@@ -50,6 +50,6 @@ date: 2016-05-17
 * 媒体查询中使用rem单位
 * 不要在多列布局中使用em或rem改用％
 # 对chrome审查元素的功能做个简单的截图介绍
-![](images/task5shoot.png)
+![](/images/task5shoot.png)
 # 6rem
 
