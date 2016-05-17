@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 浏览器基础笔记
-category: 前端开发
+title: "浏览器基础笔记"
 date: 2016-05-16
+tags: [Web]
+comments: true
 ---
 # 网页乱码的问题是如何产生的？怎样解决
 * 网页乱码是由于html文件的编码和解码不匹配造成的

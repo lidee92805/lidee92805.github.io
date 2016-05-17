@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 通过NSURLProtocol实现URL重定向
-category: iOS开发
+title: "通过NSURLProtocol实现URL重定向"
 date: 2015-06-09
+tags: [iOS]
+comments: true
 ---
 开发项目时,经常需要切换内外网进行调试,目前采用的方法是定义DEBUG_MODE的宏,编译不同的HTTP的header.感觉不太灵活,最好在程序中直接控制发送的网络的URL进行内外网的切换.在看到[阿毛的蛋疼地的文章](http://xiangwangfeng.com/2014/11/29/NSURLProtocol%E5%92%8CNSRunLoop%E7%9A%84%E9%82%A3%E4%BA%9B%E5%9D%91/)知道了NSURLProtocol,于是进行尝试.
 
@@ -68,3 +69,5 @@ date: 2015-06-09
 
 
 [demo](https://github.com/lidee92805/URLRedirection)已经放到github上
+
+

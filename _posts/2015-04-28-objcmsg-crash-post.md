@@ -1,8 +1,9 @@
 ---
 layout: post
-title: objc_msgSend在64位中崩溃的问题
-category: iOS开发
+title: "objc_msgSend在64位中崩溃的问题"
 date: 2015-04-28
+tags: [iOS]
+comments: true
 ---
 
 在适配64位的时候,程序会在objcmsgSend处崩溃,根据苹果的官方文档需要转换

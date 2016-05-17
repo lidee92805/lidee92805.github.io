@@ -2,8 +2,7 @@
 layout: post
 title: "使用jenkins打包iOS遇到的问题"
 date: 2012-05-22
-excerpt: "A ton of text to test readability."
-tags: [Web]
+tags: [iOS]
 comments: true
 ---
 
