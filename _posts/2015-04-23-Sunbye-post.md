@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 使用jenkins打包iOS遇到的问题
-category: iOS开发
-date: 2015-04-23
+title: "使用jenkins打包iOS遇到的问题"
+date: 2012-05-22
+excerpt: "A ton of text to test readability."
+tags: [Web]
+comments: true
 ---
 
 近几天研究了一下使用jenkins打包iOS,遇到了很多的问题,现在把遇到的问题记录下来只当是做个笔记.
