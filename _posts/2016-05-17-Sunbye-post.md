@@ -7,6 +7,7 @@ date: 2016-05-17
 
 # 样式有几种引入方式？link和@import有什么区别
 * 样式有三种引入方式
+
     外部样式表
    
     	<link rel="stylesheet" type="text/css" href="index.css">
