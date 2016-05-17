@@ -68,7 +68,7 @@ inherit 继承父类属性的值
 ![](/images/task5shoot.png)
 	
 	
-# 6rem
+	
 	
 
 
