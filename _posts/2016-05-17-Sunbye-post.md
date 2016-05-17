@@ -10,7 +10,7 @@ date: 2016-05-17
 
     外部样式表
    
-    	<link rel="stylesheet" type="text/css" href="index.css">
+    	 <link rel="stylesheet" type="text/css" href="index.css">
 
     
     内部样式表
@@ -24,7 +24,7 @@ date: 2016-05-17
     
     内联样式
         
-    	<p style="color:blue; font-size:14px;">段落</p>
+    	 <p style="color:blue; font-size:14px;">段落</p>
 
     
 1. link属于XHTML标签，除了加载CSS还可以定义RSS，rel连接属性等，@import是CSS提供的一种方式，只能加载CSS
