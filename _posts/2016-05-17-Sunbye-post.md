@@ -9,9 +9,9 @@ date: 2016-05-17
 * 样式有三种引入方式
     外部样式表
     
-    ```html
+    `
     <link rel="stylesheet" type="text/css" href="index.css">
-    ```
+    `
     
     内部样式表
     
