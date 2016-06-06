@@ -108,23 +108,23 @@ comments: true
 	<html>
 	<head>
    	<meta charset="utf-8">
-	<style>
-	.wrap{
- 			width: 900px;
- 			margin: 0 auto;
-	}
-	</style>
+		<style>
+			.wrap{
+ 				width: 900px;
+ 				margin: 0 auto;
+			}
+		</style>
 	</head>
 	<body>
-	<div id="header">
-	<div class="wrap">
+		<div id="header">
+		<div class="wrap">
  			<a id="logo" href="#"><img src=""></a>
- 			<ul class="nav">
+ 				<ul class="nav">
    				<li><a href="#">导航1</a></li>
    				<li><a href="#">导航2</a></li>
    				<li><a href="#">导航3</a></li>
- 			</ul>
-	</div>
+ 				</ul>
+		</div>
 	</div>
 	<div id="content">
 	<div class="wrap">
