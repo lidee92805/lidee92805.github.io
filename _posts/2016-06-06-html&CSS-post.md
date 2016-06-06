@@ -204,5 +204,9 @@ comments: true
 		<input name="user-token" type="hidden" value="this is the token"/>
 		
 	得到user-token的值用于验证
+	
+	
+	
+本博客版权归lidee92805和饥人谷所有，转载请注明出处
 
 
