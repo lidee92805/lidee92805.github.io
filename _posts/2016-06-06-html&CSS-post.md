@@ -110,10 +110,9 @@ comments: true
   	   <meta charset="utf-8">
   		<style>
     		.wrap{
-      		width: 900px;
-      		margin: 0 auto;
+      			width: 900px;
+      			margin: 0 auto;
     		}
-  
   		</style>
 	</head>
 	<body>
