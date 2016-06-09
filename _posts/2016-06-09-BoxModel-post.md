@@ -13,7 +13,7 @@ comments: true
 * border:边框
 * margin:外边距
 
-![](images/css-box.png)
+![](/images/css-box.png)
 
 # text-align:center的作用是什么，作用在什么元素上？能让什么元素水平居中？
 
