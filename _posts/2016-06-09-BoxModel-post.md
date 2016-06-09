@@ -26,11 +26,11 @@ text-align: center作用在块级元素上，能让块级元素内的行内元�
 # IE盒模型盒W3C盒模型有什么区别？
 ie678怪异模式（不添加doctype）使用ie盒模型，宽度=边框+padding+内容宽度
 
-![](images/ie-box.jpg)
+![](/images/ie-box.jpg)
 
 chrome、ie9+、ie678（添加doctype）使用标准盒模型，宽度=内容宽度
 
-![](images/w3c-box.jpg)
+![](/images/w3c-box.jpg)
 
 # 以下代码的作用？兼容性？
 
@@ -40,7 +40,10 @@ chrome、ie9+、ie678（添加doctype）使用标准盒模型，宽度=内容宽
 	
 设置全局的盒模型设置的宽度=边框+padding+内容宽度
 
-![](images/box-sizing.png)
+![](/images/box-sizing.png)
+
+
+本博客版权归lidee92805和饥人谷所有，转载请注明出处
 
 
 
