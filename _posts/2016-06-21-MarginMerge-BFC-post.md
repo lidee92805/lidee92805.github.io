@@ -77,7 +77,7 @@ comments: true
 		
 * 行内元素设置为浮动元素,行内元素之间的间距会消失
 
-	![](/images/float-to-clear-clearance)
+	![](/images/float-to-clear-clearance.png)
 	
 * 设置行内元素margin-left为-4px,调整第一个元素的位置
 
