@@ -18,10 +18,10 @@ comments: true
 			var nodeWidth = $node.width();
 			var nodeHeight = $node.height();
 			if ((nodeTop > topOffset && nodeTop < topOffset + windowHeight) || (nodeTop + nodeHeight > topOffset && nodeTop + nodeHeight < topOffset + windowHeight)) {
-			if ((nodeLeft > leftOffset && nodeLeft < leftOffset + windowWidth) || (nodeLeft + nodeWidth > leftOffset && nodeLeft + nodeWidth < leftOffset + windowWidth))
-				return true;
+				if ((nodeLeft > leftOffset && nodeLeft < leftOffset + windowWidth) || (nodeLeft + nodeWidth > leftOffset && nodeLeft + nodeWidth < leftOffset + windowWidth))
+					return true;
 			}
-			return false;
+				return false;
 		}
 
 # 当窗口滚动时，判断一个元素是不是出现在窗口可视范围。每次出现都在控制台打印 true
