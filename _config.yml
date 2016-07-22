@@ -4,7 +4,7 @@ bio:                'The quality, not the longevity, of ones life is what is imp
 description:        "SunBye's house"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/1.jpeg'
+logo:               ''
 background:         ''
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
